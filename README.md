@@ -8,3 +8,6 @@ Scroll.io Vibe Code Camp July 2025
 [Architecture](https://docs.scroll.io/en/technology/)
 
 [Level Up](https://www.levelup.xyz/)
+
+---
+[PRD](./PRD/draft.md)
