@@ -10,4 +10,10 @@ Scroll.io Vibe Code Camp July 2025
 [Level Up](https://www.levelup.xyz/)
 
 ---
-[PRD](./PRD/draft.md)
+
+## Homework
+
+### Week 1
+
+- [ ] initial [PRD](./PRD/draft.md)
+- [ ] Smart contracts draft
