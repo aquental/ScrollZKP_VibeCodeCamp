@@ -69,7 +69,7 @@
 
 #### **F. Reward system**  
 1. **Native token**
-   - Gamify with SPARE token.
+   - Gamify with the SPARE token.
 
 ---
 
@@ -83,7 +83,7 @@
 | **IoT**          | Smart Lock API              |  
 | **Monitoring**   | Smart Monitoring API              |  
 
-### **Smart Contracts** (Scroll zkEVM)  
+### **[Smart Contracts](smart.md)** (Scroll zkEVM)  
 1. **RentalNFT.sol**  
    - ERC-721 representing each rental agreement.  
 2. **Reputation.sol**  
@@ -125,7 +125,7 @@
 | Low host adoption                 | Partner with REITs/storage companies.|  
 | Regulatory hurdles (tokenization) | Start with non-NFT rentals in MVP.    |  
 | Smart lock hacking                | Audit IoT APIs + use time-bound keys. |  
-| Pote tial risks                   | Audit and monitor content                         |
+| Storage risks                   | Audit and monitor content            |
 
 ---
 
