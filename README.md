@@ -1,2 +1,8 @@
-# ScrollZKP_VibeCodeCamp
+# [Scroll ZKP](https://scroll.io/) Vibe Code Camp
 Scroll.io Vibe Code Camp July 2025
+
+[Developer documentation](https://docs.scroll.io/en/developers/)
+
+[Architecture](https://docs.scroll.io/en/technology/)
+
+[Level Up](https://www.levelup.xyz/)
